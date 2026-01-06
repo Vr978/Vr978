@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Food Donation Inventory**
 
-- 📝 I regularly write articles on [https://medium.com/@v.a.c.swt2517/what-if-i-told-you-creativity-isnt-about-being-the-first-764b1b139f2a](https://medium.com/@v.a.c.swt2517/what-if-i-told-you-creativity-isnt-about-being-the-first-764b1b139f2a)
+- 📝 I regularly write articles on [https://medium.com/@v.a.c.swt2517
 
 - 💬 Ask me about **react, express and python**
 
