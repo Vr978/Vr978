@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Food Donation Inventory**
 
-- 📝 I regularly write articles on [https://medium.com/@v.a.c.swt2517
+- 📝 I regularly write articles on [https://medium.com/@v.a.c.swt2517]
 
 - 💬 Ask me about **react, express and python**
 
